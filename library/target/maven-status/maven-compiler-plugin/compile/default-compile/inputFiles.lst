@@ -1,6 +1,6 @@
-C:\Vinod\learnings\spring-grpc-example\library\target\generated-sources\protobuf\java\com\example\grpc\lib\HelloReply.java
-C:\Vinod\learnings\spring-grpc-example\library\target\generated-sources\protobuf\java\com\example\grpc\lib\HelloRequest.java
-C:\Vinod\learnings\spring-grpc-example\library\target\generated-sources\protobuf\java\com\example\grpc\lib\HelloWorldProto.java
-C:\Vinod\learnings\spring-grpc-example\library\target\generated-sources\protobuf\grpc-java\com\example\grpc\lib\MyServiceGrpc.java
-C:\Vinod\learnings\spring-grpc-example\library\target\generated-sources\protobuf\java\com\example\grpc\lib\HelloRequestOrBuilder.java
-C:\Vinod\learnings\spring-grpc-example\library\target\generated-sources\protobuf\java\com\example\grpc\lib\HelloReplyOrBuilder.java
+/Users/vinod/IdeaProjects/spring-grpc-example/library/target/generated-sources/protobuf/java/com/example/grpc/lib/HelloRequestOrBuilder.java
+/Users/vinod/IdeaProjects/spring-grpc-example/library/target/generated-sources/protobuf/java/com/example/grpc/lib/HelloWorldProto.java
+/Users/vinod/IdeaProjects/spring-grpc-example/library/target/generated-sources/protobuf/java/com/example/grpc/lib/HelloReply.java
+/Users/vinod/IdeaProjects/spring-grpc-example/library/target/generated-sources/protobuf/java/com/example/grpc/lib/HelloReplyOrBuilder.java
+/Users/vinod/IdeaProjects/spring-grpc-example/library/target/generated-sources/protobuf/java/com/example/grpc/lib/HelloRequest.java
+/Users/vinod/IdeaProjects/spring-grpc-example/library/target/generated-sources/protobuf/grpc-java/com/example/grpc/lib/MyServiceGrpc.java
